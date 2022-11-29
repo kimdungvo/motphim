@@ -1,10 +1,11 @@
 # motphim
  SEM 2
-1)Võ Thị Kim Dung - 1275249 - project lead
+ 3 collaborators:
+    1)Võ Thị Kim Dung - 1275249 - project lead
 
-2)Nguyễn Thị Minh Thư - 1273010 - Dev
+    2)Nguyễn Thị Minh Thư - 1273010 - Dev
 
-3)Nguyễn Hồng Phúc - 1273011 - Dev
+    3)Nguyễn Hồng Phúc - 1273011 - Dev
 
 Documetation included on the main folder:
 
