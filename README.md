@@ -1,6 +1,8 @@
 # motphim
  SEM 2
+ 
  3 collaborators:
+ 
     1)Võ Thị Kim Dung - 1275249 - project lead
 
     2)Nguyễn Thị Minh Thư - 1273010 - Dev
