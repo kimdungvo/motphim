@@ -3,11 +3,11 @@
  
  3 collaborators:
  
-    1)Võ Thị Kim Dung - 1275249 - project lead
+    Võ Thị Kim Dung - 1275249 - Project lead
 
-    2)Nguyễn Thị Minh Thư - 1273010 - Dev
+    Nguyễn Thị Minh Thư - 1273010 - Dev
 
-    3)Nguyễn Hồng Phúc - 1273011 - Dev
+    Nguyễn Hồng Phúc - 1273011 - Dev
 
 Documetation included on the main folder:
 
