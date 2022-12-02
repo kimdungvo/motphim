@@ -15,7 +15,7 @@ Documetation included on the main folder:
 
     Database source : 'dbforum.sql'
 
-    Design document : 'Review.pdf'
+    Design document : 'Review.docx'
 
     Powerpoint: 'Group1_T12008A0_MotPhim.pptx'
 
