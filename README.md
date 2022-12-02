@@ -17,6 +17,6 @@ Documetation included on the main folder:
 
     Documentation : 'Review.pdf'
 
-    Powerpoint: 'Group1_T12008A0_MotPhim (1).pptx'
+    Powerpoint: 'Group1_T12008A0_MotPhim.pptx'
 
 Link to video demonstration:https://youtu.be/ZuxG6IVHCTQ
